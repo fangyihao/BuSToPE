@@ -1,0 +1,32 @@
+{
+    "nonfact": {
+        "basic_accuracy": 0.585,
+        "halluc_accuracy": 0.605,
+        "accuracy": 0.21
+    },
+    "temporal": {
+        "basic_accuracy": 0.445,
+        "halluc_accuracy": 0.655,
+        "accuracy": 0.15
+    },
+    "fact": {
+        "basic_accuracy": 0.585,
+        "halluc_accuracy": 0.475,
+        "accuracy": 0.175
+    },
+    "semantic": {
+        "basic_accuracy": 0.415,
+        "halluc_accuracy": 0.78,
+        "accuracy": 0.235
+    },
+    "obj_rel": {
+        "basic_accuracy": 0.36,
+        "halluc_accuracy": 0.89,
+        "accuracy": 0.285
+    },
+    "all": {
+        "basic_accuracy": 0.4779999999999999,
+        "halluc_accuracy": 0.6809999999999999,
+        "accuracy": 0.211
+    }
+}
